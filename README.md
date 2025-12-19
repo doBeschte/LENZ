@@ -1,6 +1,9 @@
 # LENZ
-This is my macropad. I make it for gaming. The macropad includes 11 keys.
+This is my macropad. I make it for gaming. The macropad will include 11 keys.
 
+<img width="1021" height="847" alt="Bildschirmfoto 2025-12-19 um 15 53 48" src="https://github.com/user-attachments/assets/e40fa91b-9ff0-4ec7-9f3a-13530d1c4790" />
+
+The PCB fits into the case.
 
 <img width="1175" height="773" alt="Bildschirmfoto 2025-12-12 um 16 24 25" src="https://github.com/user-attachments/assets/70d965a9-3695-4c86-826b-39c3b5609336" />
 <img width="1083" height="665" alt="Bildschirmfoto 2025-12-12 um 16 24 44" src="https://github.com/user-attachments/assets/ecca0530-ceff-4df0-a9b5-5c5dd0d0030e" />
@@ -17,7 +20,7 @@ I have put all of the connections onto one side of the PCB.
 
 
 
-BOM:
+# BOM:
 
 1x XIAO RP2040
 
