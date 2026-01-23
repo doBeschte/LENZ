@@ -1,5 +1,8 @@
 # LENZ
-This is my macropad. I make it for gaming. The macropad will include 11 keys.
+This is my macropad. I made it for gaming. The macropad includes 11 keys.
+
+![IMG_0117](https://github.com/user-attachments/assets/4e046ff0-a509-4ca4-9b94-d5b1e251d66a)
+
 
 <img width="1021" height="847" alt="Bildschirmfoto 2025-12-19 um 15 53 48" src="https://github.com/user-attachments/assets/e40fa91b-9ff0-4ec7-9f3a-13530d1c4790" />
 
@@ -31,3 +34,10 @@ I have put all of the connections onto one side of the PCB.
 4x M3x16 Bolt
 
 4x M3 Heatset
+
+
+## completed device
+
+![IMG_0116](https://github.com/user-attachments/assets/67c78515-3c04-437c-9de4-ae0a85564f95)
+
+This picture shows the mounted device again. As you can see, it works like it is supposed to. 
